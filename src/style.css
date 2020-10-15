@@ -4,3 +4,39 @@
 }
 
 /* Seu código css aqui */
+article {
+  width: 680px;
+  margin: 40px auto;
+}
+h1 {
+font-size: 40px; "lora", san-serif;
+color: #292929;
+}
+h2 {
+  font-size: 30px; "lora", san-serif;
+  color: #757575; 
+  margin-top: 20px 
+      }
+  p {
+    font-size: 20px ; "lora", san-serif;
+    color #292929;
+    margin-top: 10px;
+    margin-left: 20px;
+      }
+  img {
+    margin-top: 10px;
+     margin-left: 20px;
+      }
+      figcaption {
+       margin-left: 20px;
+          }
+  a {
+    font-style: italic;
+    color: rgb(0, 130, 80);      }
+    h3 {
+      font-size: 25px; "lora", san-serif;
+      color: #757575; 
+      margin-top: 20px ;
+      margin-left: 20px;
+
+          }
